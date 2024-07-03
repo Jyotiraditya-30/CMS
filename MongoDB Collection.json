@@ -1,0 +1,940 @@
+[{
+  "_id": {
+    "$oid": "660959d9fd163e7ba0ff0755"
+  },
+  "username": "Jyotiraditya Singh",
+  "email": "jyotir2k1@gmail.com",
+  "password": "$2a$10$Ki9wc4/a8BpP7mYfJeo.X.thsvc33/irnWmRd8vT5XjdIZmJ/T1Mu",
+  "phone": {
+    "$numberLong": "9987882339"
+  },
+  "role": 1,
+  "contacts": [
+    {
+      "_id": {
+        "$oid": "66096820fd163e7ba0ff0877"
+      },
+      "firstname": "Aditya",
+      "lastname": "Maurya",
+      "email": "aditya@gmail.som",
+      "phone": {
+        "$numberLong": "9089442521"
+      },
+      "address": "Govindpuram"
+    },
+    {
+      "_id": {
+        "$oid": "66096820fd163e7ba0ff0878"
+      },
+      "firstname": "Divyanshu",
+      "lastname": "Kishan",
+      "email": "drift_king@gmail.com",
+      "phone": {
+        "$numberLong": "9089442321"
+      },
+      "address": "Indrapuram"
+    },
+    {
+      "_id": {
+        "$oid": "66096820fd163e7ba0ff0879"
+      },
+      "firstname": "Himanshu",
+      "lastname": "Saraswat",
+      "email": "himanshu@gmail.com",
+      "phone": {
+        "$numberLong": "9822311322"
+      },
+      "address": "Kalandi kunj"
+    },
+    {
+      "_id": {
+        "$oid": "66096820fd163e7ba0ff087a"
+      },
+      "firstname": "Faisal",
+      "lastname": "Malik",
+      "email": "Faiz@gmail.com",
+      "phone": {
+        "$numberLong": "9976234123"
+      },
+      "address": "Lal kuan"
+    },
+    {
+      "_id": {
+        "$oid": "66096820fd163e7ba0ff087b"
+      },
+      "firstname": "Gurvit",
+      "lastname": "Sharma",
+      "email": "gurvit@gmail.com",
+      "phone": {
+        "$numberLong": "8897234432"
+      },
+      "address": "Kavi Nagar"
+    },
+    {
+      "_id": {
+        "$oid": "66096820fd163e7ba0ff087c"
+      },
+      "firstname": "Rajneesh",
+      "lastname": "Singh",
+      "email": "rajneesh@gmail.com",
+      "phone": {
+        "$numberLong": "9877623334"
+      },
+      "address": "Delhi"
+    },
+    {
+      "_id": {
+        "$oid": "66096820fd163e7ba0ff087d"
+      },
+      "firstname": "Sanskar",
+      "lastname": "Singh",
+      "email": "sanskar@gmail.com",
+      "phone": {
+        "$numberLong": "9899233211"
+      },
+      "address": "Indrapuram"
+    },
+    {
+      "_id": {
+        "$oid": "66096820fd163e7ba0ff087e"
+      },
+      "firstname": "Saurabh",
+      "lastname": "Singh",
+      "email": "saurabh.shershingh@gmail.com",
+      "phone": {
+        "$numberLong": "9319677643"
+      },
+      "address": "Sanjay Nagar"
+    },
+    {
+      "_id": {
+        "$oid": "66096820fd163e7ba0ff087f"
+      },
+      "firstname": "Rohit",
+      "lastname": "Sharma",
+      "email": "rohit@gmail.com",
+      "phone": {
+        "$numberLong": "9012996567"
+      },
+      "address": "Mumbai"
+    },
+    {
+      "_id": {
+        "$oid": "66096849fd163e7ba0ff0883"
+      },
+      "firstname": "Mayur",
+      "lastname": "Vats",
+      "email": "mayur@gmail.com",
+      "phone": {
+        "$numberLong": "9953110882"
+      },
+      "address": "Guwahati"
+    },
+    {
+      "_id": {
+        "$oid": "660e78dc8ac5d426d0ae27eb"
+      },
+      "firstname": "Raghav",
+      "lastname": "Dhingra",
+      "email": "raghav@gmail.com",
+      "phone": {
+        "$numberLong": "9987888772"
+      },
+      "address": "Sanjay Nagar"
+    },
+    {
+      "_id": {
+        "$oid": "660e78dc8ac5d426d0ae27ec"
+      },
+      "firstname": "Priyakar",
+      "lastname": "Dutta",
+      "email": "priyankar@gmail.com",
+      "phone": {
+        "$numberLong": "9930113090"
+      },
+      "address": "Pratap Vihar"
+    },
+    {
+      "_id": {
+        "$oid": "660e78dc8ac5d426d0ae27ed"
+      },
+      "firstname": "Aditya",
+      "lastname": "Maurya",
+      "email": "aditya@gmail.som",
+      "phone": {
+        "$numberLong": "9089442521"
+      },
+      "address": "Govindpuram"
+    },
+    {
+      "_id": {
+        "$oid": "660e78dc8ac5d426d0ae27ee"
+      },
+      "firstname": "Divyanshu",
+      "lastname": "Kishan",
+      "email": "drift_king@gmail.com",
+      "phone": {
+        "$numberLong": "9089442321"
+      },
+      "address": "Indrapuram"
+    },
+    {
+      "_id": {
+        "$oid": "660e78dc8ac5d426d0ae27ef"
+      },
+      "firstname": "Himanshu",
+      "lastname": "Saraswat",
+      "email": "himanshu@gmail.com",
+      "phone": {
+        "$numberLong": "9822311322"
+      },
+      "address": "Kalandi kunj"
+    },
+    {
+      "_id": {
+        "$oid": "660e78dc8ac5d426d0ae27f0"
+      },
+      "firstname": "Faisal",
+      "lastname": "Malik",
+      "email": "Faiz@gmail.com",
+      "phone": {
+        "$numberLong": "9976234123"
+      },
+      "address": "Lal kuan"
+    },
+    {
+      "_id": {
+        "$oid": "660e78dc8ac5d426d0ae27f1"
+      },
+      "firstname": "Gurvit",
+      "lastname": "Sharma",
+      "email": "gurvit@gmail.com",
+      "phone": {
+        "$numberLong": "8897234432"
+      },
+      "address": "Kavi Nagar"
+    },
+    {
+      "_id": {
+        "$oid": "660e78dc8ac5d426d0ae27f2"
+      },
+      "firstname": "Rajneesh",
+      "lastname": "Singh",
+      "email": "rajneesh@gmail.com",
+      "phone": {
+        "$numberLong": "9877623334"
+      },
+      "address": "Delhi"
+    },
+    {
+      "_id": {
+        "$oid": "6616813545fbbc046413c35d"
+      },
+      "firstname": "Jyotiraditya",
+      "lastname": "Singh",
+      "email": "jyotir2k1@gmail.com",
+      "phone": {
+        "$numberLong": "9955311088"
+      },
+      "address": "Ghaziabad"
+    },
+    {
+      "_id": {
+        "$oid": "6616813545fbbc046413c35e"
+      },
+      "firstname": "Raghav",
+      "lastname": "Dhingra",
+      "email": "raghav@gmail.com",
+      "phone": {
+        "$numberLong": "9987888772"
+      },
+      "address": "Sanjay Nagar"
+    },
+    {
+      "_id": {
+        "$oid": "6616813545fbbc046413c35f"
+      },
+      "firstname": "Priyakar",
+      "lastname": "Dutta",
+      "email": "priyankar@gmail.com",
+      "phone": {
+        "$numberLong": "9930113090"
+      },
+      "address": "Pratap Vihar"
+    },
+    {
+      "_id": {
+        "$oid": "6616813545fbbc046413c360"
+      },
+      "firstname": "Aditya",
+      "lastname": "Maurya",
+      "email": "aditya@gmail.som",
+      "phone": {
+        "$numberLong": "9089442521"
+      },
+      "address": "Govindpuram"
+    },
+    {
+      "_id": {
+        "$oid": "6616813545fbbc046413c361"
+      },
+      "firstname": "Divyanshu",
+      "lastname": "Kishan",
+      "email": "drift_king@gmail.com",
+      "phone": {
+        "$numberLong": "9089442321"
+      },
+      "address": "Indrapuram"
+    },
+    {
+      "_id": {
+        "$oid": "6616813545fbbc046413c362"
+      },
+      "firstname": "Himanshu",
+      "lastname": "Saraswat",
+      "email": "himanshu@gmail.com",
+      "phone": {
+        "$numberLong": "9822311322"
+      },
+      "address": "Kalandi kunj"
+    },
+    {
+      "_id": {
+        "$oid": "6616813545fbbc046413c363"
+      },
+      "firstname": "Faisal",
+      "lastname": "Malik",
+      "email": "Faiz@gmail.com",
+      "phone": {
+        "$numberLong": "9976234123"
+      },
+      "address": "Lal kuan"
+    },
+    {
+      "_id": {
+        "$oid": "6616813545fbbc046413c364"
+      },
+      "firstname": "Gurvit",
+      "lastname": "Sharma",
+      "email": "gurvit@gmail.com",
+      "phone": {
+        "$numberLong": "8897234432"
+      },
+      "address": "Kavi Nagar"
+    },
+    {
+      "_id": {
+        "$oid": "6616813545fbbc046413c365"
+      },
+      "firstname": "Rajneesh",
+      "lastname": "Singh",
+      "email": "rajneesh@gmail.com",
+      "phone": {
+        "$numberLong": "9877623334"
+      },
+      "address": "Delhi"
+    },
+    {
+      "_id": {
+        "$oid": "6616813545fbbc046413c366"
+      },
+      "firstname": "Sanskar",
+      "lastname": "Singh",
+      "email": "sanskar@gmail.com",
+      "phone": {
+        "$numberLong": "9899233211"
+      },
+      "address": "Indrapuram"
+    },
+    {
+      "_id": {
+        "$oid": "6616836a45fbbc046413c3bc"
+      },
+      "firstname": "Jyotiraditya",
+      "lastname": "Singh",
+      "email": "jyotir2k1@gmail.com",
+      "phone": {
+        "$numberLong": "9955311088"
+      },
+      "address": "Ghaziabad"
+    },
+    {
+      "_id": {
+        "$oid": "6616836a45fbbc046413c3bd"
+      },
+      "firstname": "Raghav",
+      "lastname": "Dhingra",
+      "email": "raghav@gmail.com",
+      "phone": {
+        "$numberLong": "9987888772"
+      },
+      "address": "Sanjay Nagar"
+    },
+    {
+      "_id": {
+        "$oid": "6616836a45fbbc046413c3be"
+      },
+      "firstname": "Priyakar",
+      "lastname": "Dutta",
+      "email": "priyankar@gmail.com",
+      "phone": {
+        "$numberLong": "9930113090"
+      },
+      "address": "Pratap Vihar"
+    },
+    {
+      "_id": {
+        "$oid": "6616836a45fbbc046413c3bf"
+      },
+      "firstname": "Aditya",
+      "lastname": "Maurya",
+      "email": "aditya@gmail.som",
+      "phone": {
+        "$numberLong": "9089442521"
+      },
+      "address": "Govindpuram"
+    },
+    {
+      "_id": {
+        "$oid": "6616836a45fbbc046413c3c0"
+      },
+      "firstname": "Divyanshu",
+      "lastname": "Kishan",
+      "email": "drift_king@gmail.com",
+      "phone": {
+        "$numberLong": "9089442321"
+      },
+      "address": "Indrapuram"
+    },
+    {
+      "_id": {
+        "$oid": "6616836a45fbbc046413c3c1"
+      },
+      "firstname": "Himanshu",
+      "lastname": "Saraswat",
+      "email": "himanshu@gmail.com",
+      "phone": {
+        "$numberLong": "9822311322"
+      },
+      "address": "Kalandi kunj"
+    },
+    {
+      "_id": {
+        "$oid": "6616836a45fbbc046413c3c2"
+      },
+      "firstname": "Faisal",
+      "lastname": "Malik",
+      "email": "Faiz@gmail.com",
+      "phone": {
+        "$numberLong": "9976234123"
+      },
+      "address": "Lal kuan"
+    },
+    {
+      "_id": {
+        "$oid": "6616836a45fbbc046413c3c3"
+      },
+      "firstname": "Gurvit",
+      "lastname": "Sharma",
+      "email": "gurvit@gmail.com",
+      "phone": {
+        "$numberLong": "8897234432"
+      },
+      "address": "Kavi Nagar"
+    },
+    {
+      "_id": {
+        "$oid": "6616836a45fbbc046413c3c4"
+      },
+      "firstname": "Rajneesh",
+      "lastname": "Singh",
+      "email": "rajneesh@gmail.com",
+      "phone": {
+        "$numberLong": "9877623334"
+      },
+      "address": "Delhi"
+    },
+    {
+      "_id": {
+        "$oid": "6616836a45fbbc046413c3c5"
+      },
+      "firstname": "Sanskar",
+      "lastname": "Singh",
+      "email": "sanskar@gmail.com",
+      "phone": {
+        "$numberLong": "9899233211"
+      },
+      "address": "Indrapuram"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-03-31T12:40:58.102Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-10T12:21:29.461Z"
+  },
+  "__v": 10
+},
+{
+  "_id": {
+    "$oid": "661685a645fbbc046413c4f9"
+  },
+  "username": "Virat Kohli",
+  "email": "virat@gmail.com",
+  "password": "$2a$10$PxK4YExi4oJwqkOnZf/yXO/AlMEPrKFA4Wwp0nz9mEgobzZJp2J1.",
+  "phone": null,
+  "role": 0,
+  "contacts": [
+    {
+      "_id": {
+        "$oid": "661685b545fbbc046413c507"
+      },
+      "firstname": "Divyanshu",
+      "lastname": "Kishan",
+      "email": "drift_king@gmail.com",
+      "phone": {
+        "$numberLong": "9089442321"
+      },
+      "address": "Indrapuram"
+    },
+    {
+      "_id": {
+        "$oid": "661685b545fbbc046413c508"
+      },
+      "firstname": "Himanshu",
+      "lastname": "Saraswat",
+      "email": "himanshu@gmail.com",
+      "phone": {
+        "$numberLong": "9822311322"
+      },
+      "address": "Kalandi kunj"
+    },
+    {
+      "_id": {
+        "$oid": "661685b545fbbc046413c509"
+      },
+      "firstname": "Faisal",
+      "lastname": "Malik",
+      "email": "Faiz@gmail.com",
+      "phone": {
+        "$numberLong": "9976234123"
+      },
+      "address": "Lal kuan"
+    },
+    {
+      "_id": {
+        "$oid": "661685b545fbbc046413c50a"
+      },
+      "firstname": "Gurvit",
+      "lastname": "Sharma",
+      "email": "gurvit@gmail.com",
+      "phone": {
+        "$numberLong": "8897234432"
+      },
+      "address": "Kavi Nagar"
+    },
+    {
+      "_id": {
+        "$oid": "661685b545fbbc046413c50b"
+      },
+      "firstname": "Rajneesh",
+      "lastname": "Singh",
+      "email": "rajneesh@gmail.com",
+      "phone": {
+        "$numberLong": "9877623334"
+      },
+      "address": "Delhi"
+    },
+    {
+      "_id": {
+        "$oid": "661685b545fbbc046413c50c"
+      },
+      "firstname": "Sanskar",
+      "lastname": "Singh",
+      "email": "sanskar@gmail.com",
+      "phone": {
+        "$numberLong": "9899233211"
+      },
+      "address": "Indrapuram"
+    },
+    {
+      "_id": {
+        "$oid": "661685b545fbbc046413c50d"
+      },
+      "firstname": "Saurabh",
+      "lastname": "Singh",
+      "email": "saurabh.shershingh@gmail.com",
+      "phone": {
+        "$numberLong": "9319677643"
+      },
+      "address": "Sanjay Nagar"
+    },
+    {
+      "_id": {
+        "$oid": "661685b545fbbc046413c50e"
+      },
+      "firstname": "Rohit",
+      "lastname": "Sharma",
+      "email": "rohit@gmail.com",
+      "phone": {
+        "$numberLong": "9012996567"
+      },
+      "address": "Mumbai"
+    },
+    {
+      "_id": {
+        "$oid": "661685b545fbbc046413c50f"
+      },
+      "firstname": "Mayur",
+      "lastname": "Vats",
+      "email": "mayur@gmail.com",
+      "phone": {
+        "$numberLong": "9953110882"
+      },
+      "address": "Guwahati"
+    },
+    {
+      "_id": {
+        "$oid": "661685b545fbbc046413c510"
+      },
+      "firstname": "Raghav",
+      "lastname": "Dhingra",
+      "email": "raghav@gmail.com",
+      "phone": {
+        "$numberLong": "9987888772"
+      },
+      "address": "Sanjay Nagar"
+    },
+    {
+      "_id": {
+        "$oid": "661685b545fbbc046413c511"
+      },
+      "firstname": "Priyakar",
+      "lastname": "Dutta",
+      "email": "priyankar@gmail.com",
+      "phone": {
+        "$numberLong": "9930113090"
+      },
+      "address": "Pratap Vihar"
+    },
+    {
+      "_id": {
+        "$oid": "661685b545fbbc046413c512"
+      },
+      "firstname": "Aditya",
+      "lastname": "Maurya",
+      "email": "aditya@gmail.som",
+      "phone": {
+        "$numberLong": "9089442521"
+      },
+      "address": "Govindpuram"
+    },
+    {
+      "_id": {
+        "$oid": "661685b545fbbc046413c513"
+      },
+      "firstname": "Divyanshu",
+      "lastname": "Kishan",
+      "email": "drift_king@gmail.com",
+      "phone": {
+        "$numberLong": "9089442321"
+      },
+      "address": "Indrapuram"
+    },
+    {
+      "_id": {
+        "$oid": "661685b545fbbc046413c514"
+      },
+      "firstname": "Himanshu",
+      "lastname": "Saraswat",
+      "email": "himanshu@gmail.com",
+      "phone": {
+        "$numberLong": "9822311322"
+      },
+      "address": "Kalandi kunj"
+    },
+    {
+      "_id": {
+        "$oid": "661685b545fbbc046413c515"
+      },
+      "firstname": "Faisal",
+      "lastname": "Malik",
+      "email": "Faiz@gmail.com",
+      "phone": {
+        "$numberLong": "9976234123"
+      },
+      "address": "Lal kuan"
+    },
+    {
+      "_id": {
+        "$oid": "661685b545fbbc046413c516"
+      },
+      "firstname": "Gurvit",
+      "lastname": "Sharma",
+      "email": "gurvit@gmail.com",
+      "phone": {
+        "$numberLong": "8897234432"
+      },
+      "address": "Kavi Nagar"
+    },
+    {
+      "_id": {
+        "$oid": "661685b545fbbc046413c517"
+      },
+      "firstname": "Rajneesh",
+      "lastname": "Singh",
+      "email": "rajneesh@gmail.com",
+      "phone": {
+        "$numberLong": "9877623334"
+      },
+      "address": "Delhi"
+    },
+    {
+      "_id": {
+        "$oid": "661685b545fbbc046413c518"
+      },
+      "firstname": "Jyotiraditya",
+      "lastname": "Singh",
+      "email": "jyotir2k1@gmail.com",
+      "phone": {
+        "$numberLong": "9955311088"
+      },
+      "address": "Ghaziabad"
+    },
+    {
+      "_id": {
+        "$oid": "661685b545fbbc046413c519"
+      },
+      "firstname": "Raghav",
+      "lastname": "Dhingra",
+      "email": "raghav@gmail.com",
+      "phone": {
+        "$numberLong": "9987888772"
+      },
+      "address": "Sanjay Nagar"
+    },
+    {
+      "_id": {
+        "$oid": "661685b545fbbc046413c51a"
+      },
+      "firstname": "Priyakar",
+      "lastname": "Dutta",
+      "email": "priyankar@gmail.com",
+      "phone": {
+        "$numberLong": "9930113090"
+      },
+      "address": "Pratap Vihar"
+    },
+    {
+      "_id": {
+        "$oid": "661685b545fbbc046413c51b"
+      },
+      "firstname": "Aditya",
+      "lastname": "Maurya",
+      "email": "aditya@gmail.som",
+      "phone": {
+        "$numberLong": "9089442521"
+      },
+      "address": "Govindpuram"
+    },
+    {
+      "_id": {
+        "$oid": "661685b545fbbc046413c51c"
+      },
+      "firstname": "Divyanshu",
+      "lastname": "Kishan",
+      "email": "drift_king@gmail.com",
+      "phone": {
+        "$numberLong": "9089442321"
+      },
+      "address": "Indrapuram"
+    },
+    {
+      "_id": {
+        "$oid": "661685b545fbbc046413c51d"
+      },
+      "firstname": "Himanshu",
+      "lastname": "Saraswat",
+      "email": "himanshu@gmail.com",
+      "phone": {
+        "$numberLong": "9822311322"
+      },
+      "address": "Kalandi kunj"
+    },
+    {
+      "_id": {
+        "$oid": "661685b545fbbc046413c51e"
+      },
+      "firstname": "Faisal",
+      "lastname": "Malik",
+      "email": "Faiz@gmail.com",
+      "phone": {
+        "$numberLong": "9976234123"
+      },
+      "address": "Lal kuan"
+    },
+    {
+      "_id": {
+        "$oid": "661685b545fbbc046413c51f"
+      },
+      "firstname": "Gurvit",
+      "lastname": "Sharma",
+      "email": "gurvit@gmail.com",
+      "phone": {
+        "$numberLong": "8897234432"
+      },
+      "address": "Kavi Nagar"
+    },
+    {
+      "_id": {
+        "$oid": "661685b545fbbc046413c520"
+      },
+      "firstname": "Rajneesh",
+      "lastname": "Singh",
+      "email": "rajneesh@gmail.com",
+      "phone": {
+        "$numberLong": "9877623334"
+      },
+      "address": "Delhi"
+    },
+    {
+      "_id": {
+        "$oid": "661685b545fbbc046413c521"
+      },
+      "firstname": "Sanskar",
+      "lastname": "Singh",
+      "email": "sanskar@gmail.com",
+      "phone": {
+        "$numberLong": "9899233211"
+      },
+      "address": "Indrapuram"
+    },
+    {
+      "_id": {
+        "$oid": "661685b545fbbc046413c522"
+      },
+      "firstname": "Jyotiraditya",
+      "lastname": "Singh",
+      "email": "jyotir2k1@gmail.com",
+      "phone": {
+        "$numberLong": "9955311088"
+      },
+      "address": "Ghaziabad"
+    },
+    {
+      "_id": {
+        "$oid": "661685b545fbbc046413c523"
+      },
+      "firstname": "Raghav",
+      "lastname": "Dhingra",
+      "email": "raghav@gmail.com",
+      "phone": {
+        "$numberLong": "9987888772"
+      },
+      "address": "Sanjay Nagar"
+    },
+    {
+      "_id": {
+        "$oid": "661685b545fbbc046413c524"
+      },
+      "firstname": "Priyakar",
+      "lastname": "Dutta",
+      "email": "priyankar@gmail.com",
+      "phone": {
+        "$numberLong": "9930113090"
+      },
+      "address": "Pratap Vihar"
+    },
+    {
+      "_id": {
+        "$oid": "661685b545fbbc046413c525"
+      },
+      "firstname": "Aditya",
+      "lastname": "Maurya",
+      "email": "aditya@gmail.som",
+      "phone": {
+        "$numberLong": "9089442521"
+      },
+      "address": "Govindpuram"
+    },
+    {
+      "_id": {
+        "$oid": "661685b545fbbc046413c526"
+      },
+      "firstname": "Divyanshu",
+      "lastname": "Kishan",
+      "email": "drift_king@gmail.com",
+      "phone": {
+        "$numberLong": "9089442321"
+      },
+      "address": "Indrapuram"
+    },
+    {
+      "_id": {
+        "$oid": "661685b545fbbc046413c527"
+      },
+      "firstname": "Himanshu",
+      "lastname": "Saraswat",
+      "email": "himanshu@gmail.com",
+      "phone": {
+        "$numberLong": "9822311322"
+      },
+      "address": "Kalandi kunj"
+    },
+    {
+      "_id": {
+        "$oid": "661685b545fbbc046413c528"
+      },
+      "firstname": "Faisal",
+      "lastname": "Malik",
+      "email": "Faiz@gmail.com",
+      "phone": {
+        "$numberLong": "9976234123"
+      },
+      "address": "Lal kuan"
+    },
+    {
+      "_id": {
+        "$oid": "661685b545fbbc046413c529"
+      },
+      "firstname": "Gurvit",
+      "lastname": "Sharma",
+      "email": "gurvit@gmail.com",
+      "phone": {
+        "$numberLong": "8897234432"
+      },
+      "address": "Kavi Nagar"
+    },
+    {
+      "_id": {
+        "$oid": "661685b545fbbc046413c52a"
+      },
+      "firstname": "Rajneesh",
+      "lastname": "Singh",
+      "email": "rajneesh@gmail.com",
+      "phone": {
+        "$numberLong": "9877623334"
+      },
+      "address": "Delhi"
+    },
+    {
+      "_id": {
+        "$oid": "661685b545fbbc046413c52b"
+      },
+      "firstname": "Sanskar",
+      "lastname": "Singh",
+      "email": "sanskar@gmail.com",
+      "phone": {
+        "$numberLong": "9899233211"
+      },
+      "address": "Indrapuram"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-04-10T12:27:18.292Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-10T12:27:39.918Z"
+  },
+  "__v": 2
+}]
